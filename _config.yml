@@ -1,0 +1,2 @@
+# change the default '_includes' directory to the root directory
+includes_dir : .
